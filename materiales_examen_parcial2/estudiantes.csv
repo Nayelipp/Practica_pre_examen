@@ -1,0 +1,112 @@
+registro,nombre,apellido,codigo_carrera,carrera,semestre,fecha_ingreso
+EST001,Ana,García,ING001,Ingeniería de Sistemas,5,2022-03-15
+EST002,Carlos,Martínez,MED001,Medicina,3,2023-08-20
+EST003,María,López,DER001,Derecho,7,2021-02-10
+EST004,José,Rodríguez,ECO001,Economía,4,2022-08-15
+EST005,Laura,Hernández,PSI001,Psicología,6,2021-08-25
+EST006,Diego,González,ING002,Ingeniería Civil,2,2024-03-10
+EST007,Carmen,Pérez,ADM001,Administración,8,2020-08-30
+EST008,Roberto,Sánchez,ING001,Ingeniería de Sistemas,3,2023-03-20
+EST009,Elena,Ramírez,MED001,Medicina,5,2022-02-15
+EST010,Miguel,Torres,DER001,Derecho,1,2024-08-10
+EST011,Sofía,Flores,ECO001,Economía,6,2021-03-12
+
+EST012,Andrés,Vargas,PSI001,Psicología,4,2022-08-18
+EST013,Valentina,Castro,ING002,Ingeniería Civil,7,2020-08-22
+EST014,Fernando,Morales,ADM001,Administración,2,2024-02-28
+EST015,Isabella,Jiménez,ING001,Ingeniería de Sistemas,5,2022-08-05
+EST016,Sebastián,Ruiz,MED001,Medicina,3,2023-03-15
+EST017,Camila,Mendoza,DER001,Derecho,8,2020-02-20
+EST018,Mateo,Ortega,ECO001,Economía,1,2024-08-25
+EST019,Lucía,Silva,PSI001,Psicología,6,2021-08-30
+EST020,Nicolás,Ramos,ING002,Ingeniería Civil,4,2022-03-08
+EST021,Alejandra,Guerrero,ADM001,Administración,7,2021-02-14
+EST022,Emilio,Peña,ING001,Ingeniería de Sistemas,2,2024-08-12
+EST023,Daniela,Vega,MED001,Medicina,5,2022-03-22
+EST024,Julián,Herrera,DER001,Derecho,3,2023-08-07
+EST025,Gabriela,Aguilar,ECO001,Economía,8,2020-08-15
+EST026,Tomás,Medina,PSI001,Psicología,1,2024-03-18
+EST027,Natalia,Romero,ING002,Ingeniería Civil,6,2021-08-28
+EST028,Joaquín,Castillo,ADM001,Administración,4,2022-02-25
+EST029,Valeria,Moreno,ING001,Ingeniería de Sistemas,7,2021-03-10
+EST030,Cristian,Núñez,MED001,Medicina,2,2024-08-20
+EST031,Paola,Reyes,DER001,Derecho,5,2022-08-30
+EST032,Adrián,Paredes,ECO001,Economía,3,2023-03-25
+EST033,Mariana,Salazar,PSI001,Psicología,8,2020-02-12
+EST034,Felipe,Delgado,ING002,Ingeniería Civil,1,2024-08-05
+EST035,Renata,Carrasco,ADM001,Administración,6,2021-03-15
+EST036,Ignacio,Espinoza,ING001,Ingeniería de Sistemas,4,2022-08-10
+EST037,Francisca,Ibarra,MED001,Medicina,7,2021-02-28
+EST038,Maximiliano,Contreras,DER001,Derecho,2,2024-03-20
+EST039,Antonia,Soto,ECO001,Economía,5,2022-08-25
+EST040,Bruno,Figueroa,PSI001,Psicología,3,2023-08-12
+EST041,Constanza,Miranda,ING002,Ingeniería Civil,8,2020-08-18
+EST042,Rodrigo,Pizarro,ADM001,Administración,1,2024-02-15
+EST043,Javiera,Sandoval,ING001,Ingeniería de Sistemas,6,2021-08-22
+EST044,Esteban,Araya,MED001,Medicina,4,2022-03-05
+EST045,Catalina,Rojas,DER001,Derecho,7,2021-08-10
+EST046,Gonzalo,Cáceres,ECO001,Economía,2,2024-03-28
+EST047,Macarena,Poblete,PSI001,Psicología,5,2022-02-20
+EST048,Álvaro,Tapia,ING002,Ingeniería Civil,3,2023-08-15
+EST049,Rosario,Campos,ADM001,Administración,8,2020-03-12
+EST050,Patricio,Valenzuela,ING001,Ingeniería de Sistemas,1,2024-08-28
+EST051,Esperanza,Lara,MED001,Medicina,6,2021-02-25
+EST052,Claudio,Moya,DER001,Derecho,4,2022-08-08
+EST053,Amparo,Bustamante,ECO001,Economía,7,2021-03-18
+EST054,Martín,Vergara,PSI001,Psicología,2,2024-08-30
+EST055,Florencia,Escobar,ING002,Ingeniería Civil,5,2022-03-15
+EST056,Facundo,Muñoz,ADM001,Administración,3,2023-02-22
+EST057,Agustina,Córdoba,ING001,Ingeniería de Sistemas,8,2020-08-25
+EST058,Santiago,Gallardo,MED001,Medicina,1,2024-03-10
+
+
+
+
+EST059,Pilar,Vera,DER001,Derecho,6,2021-08-12
+EST060,Nicolás,Maldonado,ECO001,Economía,4,2022-02-28
+EST061,Trinidad,Bravo,PSI001,Psicología,7,2021-08-20
+EST062,Vicente,Molina,ING002,Ingeniería Civil,3,2023-03-08
+EST063,Magdalena,Vásquez,ADM001,Administración,5,2022-08-15
+EST064,Benjamín,Pereira,ING001,Ingeniería de Sistemas,2,2024-02-18
+EST065,Isidora,Navarro,MED001,Medicina,8,2020-08-22
+EST066,Eduardo,Henríquez,DER001,Derecho,1,2024-08-05
+EST067,Bárbara,Fuentes,ECO001,Economía,6,2021-03-25
+EST068,Cristóbal,Palacios,PSI001,Psicología,4,2022-08-12
+EST069,Colomba,Sepúlveda,ING002,Ingeniería Civil,7,2021-02-15
+EST070,Matías,Donoso,ADM001,Administración,3,2023-08-28
+EST071,Amanda,Carmona,ING001,Ingeniería de Sistemas,5,2022-03-20
+EST072,Ricardo,Leiva,MED001,Medicina,2,2024-08-10
+EST073,Emilia,Palma,DER001,Derecho,8,2020-03-05
+EST074,Manuel,Carvajal,ECO001,Economía,1,2024-08-18
+EST075,Victoria,Valdivia,PSI001,Psicología,6,2021-08-25
+EST076,Pablo,Godoy,ING002,Ingeniería Civil,4,2022-02-12
+EST077,Javiera,Alvarado,ADM001,Administración,7,2021-08-30
+EST078,Leonardo,Acosta,ING001,Ingeniería de Sistemas,3,2023-03-15
+EST079,Monserrat,Loyola,MED001,Medicina,5,2022-08-22
+EST080,Ignacio,Cortés,DER001,Derecho,2,2024-03-28
+EST081,Fernanda,Urrutia,ECO001,Economía,8,2020-08-12
+EST082,Óscar,Bernal,PSI001,Psicología,1,2024-02-20
+EST083,Antonieta,Villanueva,ING002,Ingeniería Civil,6,2021-03-08
+
+EST084,Hugo,Calderón,ADM001,Administración,4,2022-08-15
+EST085,Rafaela,Santander,ING001,Ingeniería de Sistemas,7,2021-08-25
+EST086,Axel,Villalobos,MED001,Medicina,3,2023-02-10
+EST087,Belén,Moraga,DER001,Derecho,5,2022-03-18
+EST088,Horacio,Olivares,ECO001,Economía,2,2024-08-30
+EST089,Julieta,Avendaño,PSI001,Psicología,8,2020-03-22
+EST090,Damián,Arévalo,ING002,Ingeniería Civil,1,2024-08-08
+EST091,Esperanza,Hidalgo,ADM001,Administración,6,2021-02-25
+EST092,Sergio,Cuevas,ING001,Ingeniería de Sistemas,4,2022-08-20
+EST093,Constanza,Zúñiga,MED001,Medicina,7,2021-03-12
+EST094,Andrés,Yáñez,DER001,Derecho,3,2023-08-25
+EST095,Maite,Cifuentes,ECO001,Economía,5,2022-02-15
+EST096,Lucas,Pacheco,PSI001,Psicología,2,2024-03-30
+EST097,Carla,Gutiérrez,ING002,Ingeniería Civil,8,2020-08-28
+EST098,Raúl,Aguirre,ADM001,Administración,1,2024-08-12
+EST099,Paloma,Zamora,ING001,Ingeniería de Sistemas,6,2021-08-18
+EST100,Iván,Villar,MED001,Medicina,4,2022-03-25
+EST101,Regina,Mansilla,DER001,Derecho,7,2021-02-08
+EST102,Tomás,Cornejo,ECO001,Economía,3,2023-08-15
+EST103,Soledad,Mena,PSI001,Psicología,5,2022-08-30
+EST104,Mauricio,Riquelme,ING002,Ingeniería Civil,2,2024-02-22
+EST105,Rocío,Garrido,ADM001,Administración,8,2020-08-05

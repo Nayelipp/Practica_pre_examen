@@ -1,0 +1,119 @@
+codigo_materia,nombre_materia,creditos,codigo_carrera,carrera,semestre_cursada,docente
+MAT001,Cálculo I,4,ING001,Ingeniería de Sistemas,1,Dr. Roberto Silva
+MAT002,Álgebra Lineal,3,ING001,Ingeniería de Sistemas,2,Dra. Carmen Vega
+MAT003,Programación I,4,ING001,Ingeniería de Sistemas,1,Ing. Miguel Torres
+MAT004,Estructura de Datos,4,ING001,Ingeniería de Sistemas,3,Ing. Ana Morales
+MAT005,Base de Datos,3,ING001,Ingeniería de Sistemas,4,Dr. Luis Herrera
+MAT006,Sistemas Operativos,4,ING001,Ingeniería de Sistemas,5,Ing. Patricia Rojas
+MAT007,Redes de Computadores,3,ING001,Ingeniería de Sistemas,6,Dr. Carlos Mendoza
+MAT008,Ingeniería de Software,4,ING001,Ingeniería de Sistemas,7,Dra. Elena Castro
+MAT009,Anatomía Humana,5,MED001,Medicina,1,Dr. Fernando López
+MAT010,Fisiología,5,MED001,Medicina,2,Dra. Gabriela Sánchez
+MAT011,Bioquímica,4,MED001,Medicina,3,Dr. Andrés Ramírez
+MAT012,Patología,5,MED001,Medicina,4,Dra. Sofía González
+MAT013,Farmacología,4,MED001,Medicina,5,Dr. Diego Flores
+MAT014,Medicina Interna,6,MED001,Medicina,6,Dra. Laura Vargas
+MAT015,Cirugía General,5,MED001,Medicina,7,Dr. Roberto Jiménez
+MAT016,Pediatría,4,MED001,Medicina,8,Dra. María Ortega
+MAT017,Derecho Civil,4,DER001,Derecho,1,Dr. José Ruiz
+MAT018,Derecho Penal,4,DER001,Derecho,2,Dra. Carmen Silva
+MAT019,Derecho Constitucional,3,DER001,Derecho,3,Dr. Miguel Ramos
+MAT020,Derecho Comercial,4,DER001,Derecho,4,Dra. Ana Guerrero
+MAT021,Derecho Laboral,3,DER001,Derecho,5,Dr. Carlos Peña
+MAT022,Derecho Internacional,4,DER001,Derecho,6,Dra. Elena Vega
+MAT023,Derecho Procesal,4,DER001,Derecho,7,Dr. Fernando Herrera
+MAT024,Ética Jurídica,2,DER001,Derecho,8,Dra. Sofía Aguilar
+MAT025,Microeconomía,3,ECO001,Economía,1,Dr. Diego Medina
+MAT026,Macroeconomía,3,ECO001,Economía,2,Dra. Laura Romero
+MAT027,Estadística,4,ECO001,Economía,3,Dr. Roberto Castillo
+MAT028,Econometría,4,ECO001,Economía,4,Dra. Carmen Moreno
+MAT029,Finanzas Públicas,3,ECO001,Economía,5,Dr. Miguel Núñez
+MAT030,Comercio Internacional,4,ECO001,Economía,6,Dra. Ana Reyes
+MAT031,Desarrollo Económico,3,ECO001,Economía,7,Dr. Carlos Paredes
+MAT032,Política Económica,4,ECO001,Economía,8,Dra. Elena Salazar
+MAT033,Psicología General,3,PSI001,Psicología,1,Dr. José Delgado
+MAT034,Neuropsicología,4,PSI001,Psicología,2,Dra. Carmen Carrasco
+MAT035,Psicología del Desarrollo,3,PSI001,Psicología,3,Dr. Miguel Espinoza
+MAT036,Psicología Social,4,PSI001,Psicología,4,Dra. Ana Ibarra
+MAT037,Psicología Clínica,4,PSI001,Psicología,5,Dr. Carlos Contreras
+MAT038,Psicometría,3,PSI001,Psicología,6,Dra. Elena Soto
+MAT039,Psicoterapia,4,PSI001,Psicología,7,Dr. Fernando Figueroa
+MAT040,Ética Profesional,2,PSI001,Psicología,8,Dra. Sofía Miranda
+MAT041,Matemáticas Aplicadas,4,ING002,Ingeniería Civil,1,Dr. Roberto Pizarro
+MAT042,Física I,4,ING002,Ingeniería Civil,1,Dra. Carmen Sandoval
+MAT043,Dibujo Técnico,3,ING002,Ingeniería Civil,2,Ing. Miguel Araya
+MAT044,Mecánica de Materiales,4,ING002,Ingeniería Civil,3,Dr. Ana Cáceres
+MAT045,Hidráulica,4,ING002,Ingeniería Civil,4,Ing. Carlos Poblete
+MAT046,Estructuras,5,ING002,Ingeniería Civil,5,Dr. Elena Tapia
+MAT047,Geotecnia,4,ING002,Ingeniería Civil,6,Dra. Fernando Campos
+MAT048,Construcción,4,ING002,Ingeniería Civil,7,Dr. Sofía Valenzuela
+MAT049,Administración General,3,ADM001,Administración,1,Dr. Diego Lara
+MAT050,Contabilidad,4,ADM001,Administración,2,Dra. Laura Moya
+MAT051,Marketing,3,ADM001,Administración,3,Dr. Roberto Bustamante
+MAT052,Finanzas,4,ADM001,Administración,4,Dra. Carmen Vergara
+MAT053,Recursos Humanos,3,ADM001,Administración,5,Dr. Miguel Escobar
+MAT054,Operaciones,4,ADM001,Administración,6,Dra. Ana Muñoz
+MAT055,Estrategia Empresarial,4,ADM001,Administración,7,Dr. Carlos Córdoba
+MAT056,Ética Empresarial,2,ADM001,Administración,8,Dra. Elena Gallardo
+MAT057,Cálculo II,4,ING001,Ingeniería de Sistemas,2,Dr. Fernando Vera
+MAT058,Programación II,4,ING001,Ingeniería de Sistemas,2,Ing. Sofía Maldonado
+MAT059,Algoritmos,4,ING001,Ingeniería de Sistemas,4,Dr. Diego Bravo
+MAT060,Arquitectura de Computadores,3,ING001,Ingeniería de Sistemas,5,Ing. Laura Molina
+MAT061,Inteligencia Artificial,4,ING001,Ingeniería de Sistemas,6,Dr. Roberto Vásquez
+MAT062,Seguridad Informática,3,ING001,Ingeniería de Sistemas,7,Dra. Carmen Pereira
+MAT063,Gestión de Proyectos,3,ING001,Ingeniería de Sistemas,8,Ing. Miguel Navarro
+MAT064,Embriología,4,MED001,Medicina,1,Dr. Fernando Henríquez
+MAT065,Histología,3,MED001,Medicina,2,Dra. Sofía Fuentes
+MAT066,Microbiología,4,MED001,Medicina,3,Dr. Diego Palacios
+MAT067,Inmunología,3,MED001,Medicina,4,Dra. Laura Sepúlveda
+MAT068,Radiología,4,MED001,Medicina,5,Dr. Roberto Donoso
+MAT069,Ginecología,5,MED001,Medicina,6,Dra. Carmen Carmona
+MAT070,Psiquiatría,4,MED001,Medicina,7,Dr. Miguel Leiva
+MAT071,Medicina Legal,3,MED001,Medicina,8,Dra. Ana Palma
+MAT072,Introducción al Derecho,3,DER001,Derecho,1,Dr. Carlos Carvajal
+MAT073,Derecho Romano,3,DER001,Derecho,2,Dra. Elena Valdivia
+MAT074,Filosofía del Derecho,3,DER001,Derecho,3,Dr. Fernando Godoy
+MAT075,Derecho Administrativo,4,DER001,Derecho,4,Dra. Sofía Alvarado
+MAT076,Derecho Tributario,3,DER001,Derecho,5,Dr. Diego Acosta
+MAT077,Derecho Ambiental,3,DER001,Derecho,6,Dra. Laura Loyola
+MAT078,Criminología,3,DER001,Derecho,7,Dr. Roberto Cortés
+MAT079,Mediación y Arbitraje,3,DER001,Derecho,8,Dra. Carmen Urrutia
+MAT080,Historia Económica,3,ECO001,Economía,1,Dr. Miguel Bernal
+MAT081,Matemáticas para Economistas,4,ECO001,Economía,2,Dra. Ana Villanueva
+
+
+
+
+
+MAT082,Teoría Monetaria,3,ECO001,Economía,3,Dr. Carlos Calderón
+MAT083,Economía Internacional,4,ECO001,Economía,4,Dra. Elena Santander
+MAT084,Economía del Trabajo,3,ECO001,Economía,5,Dr. Fernando Villalobos
+MAT085,Economía Industrial,4,ECO001,Economía,6,Dra. Sofía Moraga
+
+MAT086,Evaluación de Proyectos,4,ECO001,Economía,7,Dr. Diego Olivares
+
+MAT087,Economía Ambiental,3,ECO001,Economía,8,Dra. Laura Avendaño
+
+MAT088,Psicología Experimental,4,PSI001,Psicología,1,Dr. Roberto Arévalo
+MAT089,Psicología Cognitiva,3,PSI001,Psicología,2,Dra. Carmen Hidalgo
+MAT090,Psicología de la Personalidad,4,PSI001,Psicología,3,Dr. Miguel Cuevas
+MAT091,Psicopatología,4,PSI001,Psicología,4,Dra. Ana Zúñiga
+MAT092,Psicología Educacional,3,PSI001,Psicología,5,Dr. Carlos Yáñez
+MAT093,Psicología Organizacional,4,PSI001,Psicología,6,Dra. Elena Cifuentes
+MAT094,Investigación en Psicología,4,PSI001,Psicología,7,Dr. Fernando Pacheco
+
+MAT095,Praxis Profesional,3,PSI001,Psicología,8,Dra. Sofía Gutiérrez
+MAT096,Física II,4,ING002,Ingeniería Civil,2,Dr. Diego Aguirre
+MAT097,Topografía,3,ING002,Ingeniería Civil,3,Dra. Laura Zamora
+MAT098,Resistencia de Materiales,4,ING002,Ingeniería Civil,4,Dr. Roberto Villar
+MAT099,Ingeniería Sanitaria,4,ING002,Ingeniería Civil,5,Dra. Carmen Mansilla
+MAT100,Pavimentos,3,ING002,Ingeniería Civil,6,Dr. Miguel Cornejo
+MAT101,Puentes,4,ING002,Ingeniería Civil,7,Dra. Ana Mena
+MAT102,Gestión de Obras,3,ING002,Ingeniería Civil,8,Dr. Carlos Riquelme
+MAT103,Microeconomía Avanzada,4,ADM001,Administración,1,Dra. Elena Garrido
+MAT104,Comportamiento Organizacional,3,ADM001,Administración,2,Dr. Fernando Silva
+MAT105,Investigación de Mercados,4,ADM001,Administración,3,Dra. Sofía Vega
+
+
+
+
